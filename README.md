@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Hyun0505/Hyun0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF00&background=0A0A0A&center=true&vCenter=true&width=600&lines=Hello;Uname?;Hyun0505;)
+
+
+
+
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyun0505&theme=radical&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun0505&theme=radical&layout=compact)
+
+</div>
+
+## 📞 연락처
+
+<div align="center">
+
+[![SSAFY](https://img.shields.io/badge/SSAFY-14기-00FF00?style=for-the-badge&logo=samsung&logoColor=white)](https://www.ssafy.com)
+[![Status](https://img.shields.io/badge/Status-학습중-brightgreen?style=for-the-badge)](https://github.com/Hyun0505)
+[![Collaboration](https://img.shields.io/badge/Collaboration-Welcome-blue?style=for-the-badge)](https://github.com/Hyun0505)
+
+</div>
